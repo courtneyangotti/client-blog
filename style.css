@@ -6,8 +6,13 @@
 
     }
     
-    .h1 {
-		color: white;
+    .life{
+        text-align: center;
+        font-size: 80px;
+        color:purple;
+        font-family: 'Dancing Script', cursive;    
+    
+		color: purple;
 	}
 	.container{
 		max-width: 100px;
@@ -16,7 +21,7 @@
     
     .notordinary{
         text-align: center;
-        color:purple;
+        color:slategrey;
         font-family: 'Dancing Script', cursive;    
     }
 	.headerarea{
@@ -89,7 +94,7 @@
     
         	
 	h3{
-        color: black;
+        color: steel grey;;
         text-align: center;
 	}
 	.life {
